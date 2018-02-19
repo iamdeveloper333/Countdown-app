@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image:url('./images/gplaypattern.png')
+}
+.app-outer{
+    padding-top: 175px;
+    text-align: center;
+}
+.headline{
+    font-size: 40px;
+    color: #007bff;
+    text-transform: uppercase;
+    text-shadow: 2.5px 2px #948f8f;
+}
+.time{
+  display: inline-block;
+  padding: 15px;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #495057;
+  text-shadow: 1px 1px #6f6f6f;
+}
+input{
+  width: 300px;
+  height: 45px;
+}
+.btn-info{
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: none;
+    margin-top: 20px;
+    background: #3b3b3c;
+    padding: 12px 20px;
+}
+
